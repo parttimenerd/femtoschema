@@ -14,6 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 
+## [0.1.1] - 2026-03-02
+
+### Changed
+- Bump femtojson dependency to 0.2.2 (emoji surrogate pair fixes)
+
 ## [0.1.0] - 2026-03-01
 
 ### Added

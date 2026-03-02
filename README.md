@@ -16,7 +16,7 @@ It does not aim to support every feature of JSON Schema, see below for the suppo
 <dependency>
     <groupId>me.bechberger.util</groupId>
     <artifactId>femtoschema</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 
